@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Madonna subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Infectious Disease News" title="Infectious Disease News">
+            <outline type="rss" text="Outbreak News Today" title="Outbreak News Today" xmlUrl="http://feeds.feedburner.com/OutbreakNewsToday" htmlUrl="https://outbreaknewstoday.com/"/>
+            <outline type="rss" text="Seasonal Flu" title="Seasonal Flu" xmlUrl="https://tools.cdc.gov/api/v2/resources/media/277692.rss" htmlUrl="https://www.cdc.gov/flu/whatsnew.htm"/>
+            <outline type="rss" text="CDC Online Newsroom" title="CDC Online Newsroom" xmlUrl="http://www2c.cdc.gov/podcasts/createrss.asp?t=r&amp;c=183" htmlUrl="https://www.cdc.gov/media/index.html"/>
+            <outline type="rss" text="CDC Outbreaks - US Based" title="CDC Outbreaks - US Based" xmlUrl="http://www2c.cdc.gov/podcasts/createrss.asp?t=r&amp;c=513" htmlUrl="https://www.cdc.gov/outbreaks/index.html"/>
+        </outline>
+    </body>
+</opml>
